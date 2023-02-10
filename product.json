@@ -1,0 +1,131 @@
+[
+    {
+      "name": "laptop",
+      "price": 25000,
+      "company": "dell",
+      "rating": 4
+    },
+    {
+      "name": "mobile",
+      "price": 30000,
+      "company": "redmi",
+      "rating": 5
+    },
+    {
+      "name": "laptop",
+      "price": 20000,
+      "company": "hp",
+      "rating": 4.9
+    },
+    {
+      "name": "laptop",
+      "price": 50000,
+      "company": "thinkpad",
+      "rating": 4.8
+    },
+    {
+      "name": "mobile",
+      "price": 350000,
+      "company": "samsung",
+      "rating": 4.6
+    },
+    {
+      "name": "laptop",
+      "price": 42000,
+      "company": "hp",
+      "rating": 4.55
+    },
+    {
+      "name": "laptop",
+      "price": 23000,
+      "company": "dell"
+    },
+    {
+      "name": "mobile",
+      "price": 400000,
+      "featured": true,
+      "company": "iphon"
+    },
+    {
+      "name": "mobile",
+      "price": 39000,
+      "featured": true,
+      "company": "redmi"
+    },
+  
+    {
+      "name": "laptop",
+      "price": 90000,
+      "company": "thinkpad"
+    },
+    {
+      "name": "ipad",
+      "price": 31000,
+      "featured": true,
+      "company": "dell"
+    },
+    {
+      "name": "laptop",
+      "price": 300000,
+      "company": "hp"
+    },
+    {
+      "name": "shelf",
+      "price": 30,
+      "company": "ikea"
+    },
+    {
+      "name": "simple chair",
+      "price": 109,
+      "company": "liddy"
+    },
+    {
+      "name": "sofa set",
+      "price": 129,
+      "company": "marcos"
+    },
+    {
+      "name": "suede armchair",
+      "price": 15,
+      "company": "caressa"
+    },
+    {
+      "name": "utopia sofa",
+      "price": 79,
+      "featured": true,
+      "company": "liddy"
+    },
+    {
+      "name": "vase table",
+      "price": 120,
+      "featured": true,
+      "company": "marcos"
+    },
+    {
+      "name": "wooden bed",
+      "price": 25,
+      "company": "ikea"
+    },
+    {
+      "name": "wooden desk",
+      "price": 15,
+      "company": "ikea"
+    },
+    {
+      "name": "wooden desk",
+      "price": 40,
+      "company": "ikea"
+    },
+    {
+      "name": "wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa"
+    },
+    {
+      "name": "a first wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa"
+    }
+  ]
